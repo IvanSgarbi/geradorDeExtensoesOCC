@@ -1,0 +1,23 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "nomeDoArquivoDeIdioma",
+  "javascript": "nomeDoArquivoJs",
+  "jsEditable": true,
+  "availableToAllPages": true,
+  "minWidth": 1,
+  "translations": [
+    {
+      "language": "pt_BR",
+      "name": "nome aqui"
+    },
+    {
+      "language": "en",
+      "name": "name here"
+    }
+  ],
+  "version": 1,
+  "widgetFamily": "obrigatorio",
+  "widgetType": "obrigatorio"
+}
